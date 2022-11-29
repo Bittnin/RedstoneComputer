@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2022-11-29 18:28:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2022-10-28 15:58:19 +0200"
@@ -203,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2022-11-29 18:28:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2022-11-03 10:18:48 +0100"
@@ -305,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2022-11-29 19:02:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2022-10-27 20:30:42 +0200"
@@ -404,6 +422,12 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2022-10-28 16:48:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2022-11-29 19:12:36 +0100"
     },
     "done": true
   },
@@ -521,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2022-11-29 19:09:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2022-10-27 20:30:42 +0200"
@@ -602,6 +632,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2022-11-03 10:24:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2022-11-29 18:28:41 +0100"
     },
     "done": true
   },
