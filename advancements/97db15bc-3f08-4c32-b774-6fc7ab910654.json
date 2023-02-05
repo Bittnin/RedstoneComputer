@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2023-02-05 12:38:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2022-10-28 16:01:09 +0200"
@@ -248,6 +254,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-11-03 10:24:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2023-02-05 11:57:15 +0100"
     },
     "done": true
   },
@@ -419,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2023-02-05 12:38:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2022-11-03 10:24:37 +0100"
@@ -467,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2023-02-05 11:57:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2022-10-27 20:30:42 +0200"
@@ -476,6 +500,12 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2022-11-03 10:25:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2023-02-05 12:29:11 +0100"
     },
     "done": true
   },
@@ -518,6 +548,12 @@
   "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
       "has_purple_wool": "2022-10-28 17:07:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2023-02-05 11:57:15 +0100"
     },
     "done": true
   },
@@ -653,6 +689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2023-02-05 12:29:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2022-11-29 18:28:41 +0100"
@@ -674,6 +716,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2022-10-28 16:47:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2023-02-05 12:38:42 +0100"
     },
     "done": true
   },
